@@ -400,7 +400,7 @@ body {
   justify-content: space-between;
 }
 ul {
-  list-style: none
+  list-style: none;
 }
 a {
   text-decoration: none
@@ -430,7 +430,7 @@ main {
   line-height: 1;
 }
 footer {
-  background: rgb(178, 174, 211);
+  background: rgb(6, 197, 211);
   margin-top: auto;
   width: 100%
 }

@@ -54,8 +54,13 @@ h1 {
   background: rgba(0, 0, 0, 0.05);
 }
 
+.design{
+  text-align: center;
+  cursor: pointer;
+}
 .three_col,
 .one_col {
+  border-radius: ;
   float: left;
   width: 100%;
   position: relative;
@@ -430,7 +435,7 @@ main {
   line-height: 1;
 }
 footer {
-  background: rgb(6, 197, 211);
+  background: powderblue;
   margin-top: auto;
   width: 100%
 }

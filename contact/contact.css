@@ -2,7 +2,7 @@
   font-family: Cambria, Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
   -webkit-font-smoothing: antialiased;
   -moz-font-smoothing: antialiased;
-  font-smoothing: antialiased;
+  -font-smoothing: antialiased;
   font-family: 'Quicksand', sans-serif;
   font-weight: 700;
   font-size: 12px;
@@ -54,13 +54,8 @@ h1 {
   background: rgba(0, 0, 0, 0.05);
 }
 
-.design{
-  text-align: center;
-  cursor: pointer;
-}
 .three_col,
-.one_col {
-  border-radius: ;
+.one_col {  
   float: left;
   width: 100%;
   position: relative;

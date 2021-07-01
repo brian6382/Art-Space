@@ -2,7 +2,7 @@
   font-family: Cambria, Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
   -webkit-font-smoothing: antialiased;
   -moz-font-smoothing: antialiased;
-  font-smoothing: antialiased;
+  -font-smoothing: antialiased;
   font-family: 'Quicksand', sans-serif;
   font-weight: 700;
   font-size: 12px;
@@ -55,7 +55,7 @@ h1 {
 }
 
 .three_col,
-.one_col {
+.one_col {  
   float: left;
   width: 100%;
   position: relative;
@@ -400,7 +400,7 @@ body {
   justify-content: space-between;
 }
 ul {
-  list-style: none
+  list-style: none;
 }
 a {
   text-decoration: none
@@ -430,7 +430,7 @@ main {
   line-height: 1;
 }
 footer {
-  background: rgb(178, 174, 211);
+  background: powderblue;
   margin-top: auto;
   width: 100%
 }

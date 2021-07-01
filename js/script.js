@@ -1,3 +1,4 @@
+alert("Welcome");
 $(document).ready(function(){
       
     file_style();
